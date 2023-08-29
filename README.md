@@ -1,4 +1,4 @@
-This code is designed to reproduce the results from the paper "Non-standard power grid frequency statistics in Europe, Australia, and Asia" and can be used to test bimodality, linearity, and Markovian behavior for your own data.
+This code is designed to reproduce the results from the paper "Non-standard power grid frequency statistics in Asia, Australia, and Europe" and can be used to test bimodality, linearity, and Markovian behavior for your own data.
 
 The Asian countries analysis and European countries file include a range of code functionalities. These functionalities encompass time series plotting, frequency distribution, and its increments, stationary testing, dip statistics, autocorrelation plotting, as well as the necessary functions for conducting linear tests and detrended fluctuation analysis. Dip statistics and linear test results are saved for future visualization purposes. Kindly access the data utilized through this link: https://power-grid-frequency.org/
 
