@@ -25,3 +25,8 @@ This notebook provides analysis of a time-series dataset. It covers the followin
 11. [Detrended Fluctuation Analysis](#Detrended-Fluctuation-Analysis)
 12. [Chapman-Kolmogorov (CK) test](#Chapman-Kolmogorov-(CK)-test)
 13. [Rescaled Range Analysis (R/S)](#Rescaled-Range-Analysis-(R/S))
+
+    ## Linearity
+
+[Click here to view the Introduction section in the notebook](./notebook.ipynb#Linearity)
+
