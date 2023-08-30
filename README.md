@@ -25,6 +25,6 @@ This notebook provides analysis of a time-series dataset. It covers the followin
 13. [Rescaled Range Analysis (R/S)](#Rescaled-Range-Analysis-(R/S))
 
 
-## Introduction
+## Load Libraries
 
-[Click here to view the Load Libraries section in the notebook](./code.ipynb#Load-Libraries)
+[Load Libraries](./code.ipynb#Load-Libraries)
