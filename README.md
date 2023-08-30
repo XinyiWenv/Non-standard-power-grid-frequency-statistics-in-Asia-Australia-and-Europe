@@ -25,15 +25,8 @@ This notebook provides analysis of a time-series dataset. It covers the followin
 13. [Rescaled Range Analysis (R/S)](#Rescaled-Range-Analysis-(R/S))
 
 
-## Load Libraries
-
-[Load Libraries](./code.ipynb#Load-Libraries)
-
-
 <details>
 <summary>Click to expand Jupyter Notebook content</summary>
-
-<p>
 
 {
  "cells": [
@@ -1394,8 +1387,4 @@ This notebook provides analysis of a time-series dataset. It covers the followin
  "nbformat": 4,
  "nbformat_minor": 5
 }
-
-
-</p>
 </details>
-
