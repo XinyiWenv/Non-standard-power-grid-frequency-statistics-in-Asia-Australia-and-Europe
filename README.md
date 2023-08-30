@@ -4,8 +4,6 @@ The data folder contains the data we used in the code.ipynb
 
 The code.ipynb provides the tools to analyze time-series datasets, extracting various dataset properties including frequency distribution, dip statistics, stationary tests, and linear correlation analysis.
 
-[View HTML File](code.html)
-
 
 # Notebook Overview
 
