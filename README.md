@@ -28,5 +28,5 @@ This notebook provides analysis of a time-series dataset. It covers the followin
 
     ## Linearity
 
-[Click here to view the Introduction section in the notebook](./notebook.ipynb#Linearity)
+[Click here to view the Introduction section in the notebook](./code.ipynb#Linearity)
 
