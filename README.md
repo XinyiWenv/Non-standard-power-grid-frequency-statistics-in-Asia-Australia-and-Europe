@@ -4,10 +4,9 @@ The data folder contains the data we used in the code.ipynb
 
 The code.ipynb provides the tools to analyze time-series datasets, extracting various dataset properties including frequency distribution, dip statistics, stationary tests, and linear correlation analysis.
 
-
-# Notebook Overview
 [Code Preview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/KIT-IAI-DRACOS/Non-standard-power-grid-frequency-statistics-in-Asia-Australia-and-Europe/main/code.html)
 
+# Notebook Overview
 This notebook provides analysis of a time-series dataset. It covers the following sections:
 
 1. [Load Libraries](#Load-Libraries)
@@ -26,7 +25,4 @@ This notebook provides analysis of a time-series dataset. It covers the followin
 12. [Chapman-Kolmogorov (CK) test](#Chapman-Kolmogorov-(CK)-test)
 13. [Rescaled Range Analysis (R/S)](#Rescaled-Range-Analysis-(R/S))
 
-    ## Linearity
-
-[Click here to view the Introduction section in the notebook](./code.ipynb#Linearity)
 
